@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AbriendoPuertasAlAmor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C84B59C902E445095E288B4F28C5795 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F35B52C1AA047BFB51F83B707F518FD }}
           package: .
